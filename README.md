@@ -1,4 +1,4 @@
-# Review Kantin API — Tugas 3 (Validasi, Error, dan Auth)
+# Review Kantin API - Tugas 3 (Validasi, Error, dan Auth)
 
 Express 5 + Drizzle ORM + SQL Server. Lanjutan Tugas 2, ditambah:
 
